@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#stored coinmarketcap api credentials in a separate file.. 
 
 import pygsheets
 import json
