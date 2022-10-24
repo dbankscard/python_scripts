@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#The following script was created to get the current price of any given cryto currency using its symbol and name. The price is copied and updated on a given google sheet.
 
 
 #Libraries needed below... 
